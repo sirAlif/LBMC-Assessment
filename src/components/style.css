@@ -271,3 +271,12 @@
   font-family: "altivo";
   font-weight: 400;
 }
+
+.contract-address-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  width: 20%;
+  margin-left: 20px;
+}
